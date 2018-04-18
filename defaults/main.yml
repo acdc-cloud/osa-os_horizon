@@ -303,3 +303,5 @@ horizon_config_overrides: {}
 
 horizon_keystone_admin_roles:
   - admin
+
+horizon_websso_initial_choice: "credentials"
